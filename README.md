@@ -1,4 +1,6 @@
 # Stone Paper Scissors Game
+## To Visit the Website
+Go to [https://aakash17x08.github.io/Stone-Paper-Scissor-game/](https://aakash17x08.github.io/Stone-Paper-Scissor-game/)
 
 This is a simple **Stone Paper Scissors** game built using HTML, CSS, and JavaScript. The project is designed to showcase basic web development skills while providing an interactive and enjoyable experience for users.
 
